@@ -4,6 +4,7 @@ In this fast-paced action game, you take on the role of a heroic ninja. Your obj
 # How to Play
 ### Movement:
 The hero can move in multiple directions across the game grid. Movement is controlled by keyboard input (likely arrow keys or `W`, `A`, `S`, `D`).
+The hero can jump forward by pressing the `e` key and jump backward by pressing the "q" key, allowing for swift dodges and tactical maneuvers.
 
 ### Combat:
 The hero can fire bullets at enemies like spiders and dragons by pressing the `b` key. Aim carefully and time your shots to defeat enemies while avoiding damage.
