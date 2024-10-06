@@ -3,10 +3,10 @@
 In this fast-paced action game, you take on the role of a heroic ninja. Your objective is to navigate through dangerous levels filled with enemies like spiders and dragons, while avoiding traps and using elevators to progress. Armed with limited health, the hero must carefully balance offense and defense to survive the relentless onslaught of enemies. You’ll also encounter challenging boss fights, such as the mighty dragon, which require quick reflexes and strategic gameplay to overcome.
 # How to Play
 ### Movement:
-The hero can move in multiple directions across the game grid. Movement is controlled by keyboard input (likely arrow keys or `W`, A, S, D).
+The hero can move in multiple directions across the game grid. Movement is controlled by keyboard input (likely arrow keys or `W`, `A`, `S`, `D`).
 
 ### Combat:
-The hero can fire bullets at enemies like spiders and dragons by pressing the "b" key. Aim carefully and time your shots to defeat enemies while avoiding damage.
+The hero can fire bullets at enemies like spiders and dragons by pressing the `b` key. Aim carefully and time your shots to defeat enemies while avoiding damage.
 
 ## Enemies:
 
