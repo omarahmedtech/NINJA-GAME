@@ -7,13 +7,17 @@ The hero can move in multiple directions across the game grid. Movement is contr
 
 ### Combat:
 The hero can fire bullets at enemies like spiders and dragons by pressing the "b" key. Aim carefully and time your shots to defeat enemies while avoiding damage.
-Enemies:
 
-### Spiders: Regular enemies that roam the levels. They can be shot with bullets.
+## Enemies:
 
-### Dragon: A boss-level enemy, requiring multiple shots to defeat.
+### Spiders: 
+Regular enemies that roam the levels. They can be shot with bullets.
 
-### Spider Eggs: These may spawn additional spiders or pose hazards to the player.
+### Dragon:
+A boss-level enemy, requiring multiple shots to defeat.
+
+### Spider Eggs:
+These may spawn additional spiders or pose hazards to the player.
 
 ### Health System:
 The hero has limited health. Each hit from an enemy reduces health, and the game ends if the hero's health reaches zero.
