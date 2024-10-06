@@ -2877,7 +2877,7 @@ int main() {
     //----------------------------------------------
     Hero hero;
     hero.poshero.x = 70;
-    hero.poshero.y = 800;
+    hero.poshero.y = 5;
     hero.health = 100;
     int flagshook1 = 1;
     int flagshook2 = 1;
